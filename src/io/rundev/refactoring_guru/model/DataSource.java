@@ -1,4 +1,4 @@
-package io.rundev.refactoring_guru;
+package io.rundev.refactoring_guru.model;
 
 public interface DataSource {
 

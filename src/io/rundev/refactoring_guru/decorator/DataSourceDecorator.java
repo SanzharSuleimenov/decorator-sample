@@ -1,6 +1,6 @@
 package io.rundev.refactoring_guru.decorator;
 
-import io.rundev.refactoring_guru.DataSource;
+import io.rundev.refactoring_guru.model.DataSource;
 
 public class DataSourceDecorator implements DataSource {
 

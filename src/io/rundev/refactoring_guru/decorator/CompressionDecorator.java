@@ -1,6 +1,6 @@
 package io.rundev.refactoring_guru.decorator;
 
-import io.rundev.refactoring_guru.DataSource;
+import io.rundev.refactoring_guru.model.DataSource;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
