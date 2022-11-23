@@ -23,6 +23,4 @@ public class Client {
     System.out.println("- Decoded --------------");
     System.out.println(encoded.readData());
   }
-
-
 }
