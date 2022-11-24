@@ -1,0 +1,2 @@
+This file created via 'code' command in Terminal. 
+File text written in Visual Studio Code GUI.
